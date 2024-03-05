@@ -235,3 +235,10 @@ gradle-app.setting
 *.hprof
 
 # End of https://www.toptal.com/developers/gitignore/api/intellij,eclipse,java,gradle
+
+### Bootstrap ###
+/src/main/resources/static/bootstrap
+
+### properties ###
+src/main/resources/application-oauth.properties
+src/main/resources/application.properties
